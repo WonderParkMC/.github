@@ -1,13 +1,13 @@
 ## Hallo 👋
 
 ## Wie zijn wij?
-Hoi wij zijn WonderParkMC, wij bestaan uit een klein team die er hard voor strijd om de leukste ervaringen in minecraft te maken.
+Hoi wij zijn WonderParkMC, wij bestaan uit een klein team die er hard voor strijd om de leukste ervaringen in minecraft te maken.<br>
 Wij bouwen geen park na die echt bestaat, alhoewel doen wij wel insperatie op uit parken die bestaan.
 
 <hr>
 
 ## Contact:
-[Discord](https://discord.gg/QX3znrVxg6)
+[Discord](https://discord.gg/QX3znrVxg6) <br>
 [Email](mailto:contact.wonderparkmc.com)
 
 <!--
