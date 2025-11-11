@@ -8,7 +8,6 @@ Wij bouwen geen park na die echt bestaat, alhoewel doen wij wel insperatie op ui
 
 ## Contact:
 [Discord](https://discord.gg/QX3znrVxg6) <br>
-[Email](mailto:contact.wonderparkmc.com)
 
 <!--
 
